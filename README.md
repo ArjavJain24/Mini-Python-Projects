@@ -30,5 +30,5 @@ A tool to assess the fine or warning based on the user's entered speed.
 
 ## Run any script:
 
-      python mood_tracker.py
+     Daily Mood Tracker.py
 
